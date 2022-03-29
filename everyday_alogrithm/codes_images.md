@@ -3,6 +3,11 @@
 #### 2022/3/27
 
 1.LC647回文子串
+
+![LC647](https://raw.githubusercontent.com/snkersLoujun/Map-Bed/main/Snipaste_LC647.png)
+
+
+
 ```C++
 class Solution {
 public:
@@ -127,6 +132,12 @@ public:
 };
 
 ```
+1.晚上写一个详细的计划
+- 关于算法
+- 关于八股文
+- 关于项目
+- 关于秋招
 
+一切都要好好加油！！！
 
 
