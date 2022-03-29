@@ -6,9 +6,8 @@
 
 ![LC647](https://raw.githubusercontent.com/snkersLoujun/Map-Bed/main/Snipaste_LC647.png)
 
-
-
 ```C++
+
 class Solution {
 public:
     int countSubstrings(string s) {
@@ -29,9 +28,10 @@ public:
     }
 };
 
-
 ```
+>
 2.LC516最长回文子序列
+![](https://raw.githubusercontent.com/snkersLoujun/Map-Bed/main/Snipaste_LC516.png)
 ```C++
 class Solution {
 public:
@@ -54,6 +54,7 @@ public:
 ***
 #### 2022/3/28
 1.LC392判断子序列
+![](https://raw.githubusercontent.com/snkersLoujun/Map-Bed/main/Snipaste_LC392.png)
 ```C++
 class Solution {
 public:
@@ -68,6 +69,7 @@ public:
 ```
 
 2.LC115不同的子序列
+![](https://raw.githubusercontent.com/snkersLoujun/Map-Bed/main/Snipaste_LC115.png)
 ```C++
 class Solution {
 public:
@@ -87,7 +89,9 @@ public:
 ```
 
 3.LC583两个字符串的删除操作
+![](https://raw.githubusercontent.com/snkersLoujun/Map-Bed/main/Snipaste_LC583.png)
 ```C++
+
 class Solution {
 public:
     int minDistance(string word1, string word2) {
@@ -109,6 +113,7 @@ public:
 ```
 
 4.LC72编辑距离
+![](https://raw.githubusercontent.com/snkersLoujun/Map-Bed/main/Snipaste_LC72.png)
 ```C++
 class Solution {
 public:
